@@ -43,7 +43,3 @@ A partir de dados públicos hospedados no GitHub, o notebook realiza:
 - numpy
 
 - Matplotlib
-
-## Autor
-
-#### Wlamir Matias de Lira
